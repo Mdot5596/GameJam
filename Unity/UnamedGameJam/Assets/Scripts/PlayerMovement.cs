@@ -25,6 +25,8 @@ public class PlayerMovement : MonoBehaviour
     public float playerHeight;
     public LayerMask whatIsGround;
     bool grounded;
+// Add this inside your PlayerMovement class
+public bool IsGrounded => grounded;
 
     public Transform orientation;
 
