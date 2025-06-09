@@ -332,6 +332,7 @@
 -analyzer:"D:/Uni/Software/unity/unityz/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/FootstepAudio.cs"
 "Assets/Scripts/MoveCamera.cs"
+"Assets/Scripts/NPCGreeting.cs"
 "Assets/Scripts/PlayerCam.cs"
 "Assets/Scripts/PlayerMovement.cs"
 -langversion:9.0
