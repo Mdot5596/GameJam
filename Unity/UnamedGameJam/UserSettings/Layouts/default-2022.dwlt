@@ -246,8 +246,8 @@ MonoBehaviour:
     y: 0
     width: 466
     height: 649
-  m_MinSize: {x: 275, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -353,9 +353,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e49effff
-      m_LastClickedID: -24860
-      m_ExpandedIDs: 40fbffff5644000074460000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 40fbffff24440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -787,9 +787,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 30.19432, y: 6.9715366, z: 172.74292}
+    m_Target: {x: 80.08151, y: 14.908897, z: 142.18741}
     speed: 2
-    m_Value: {x: 30.19432, y: 6.9715366, z: 172.74292}
+    m_Value: {x: 80.08151, y: 14.908897, z: 142.18741}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -835,20 +835,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 1
   m_Rotation:
-    m_Target: {x: -0.06236161, y: -0.93650484, z: 0.26856467, w: -0.21696842}
+    m_Target: {x: 0.00606784, y: 0.9864944, z: -0.16001573, w: 0.03697664}
     speed: 2
-    m_Value: {x: -0.06349233, y: -0.93538415, z: 0.269762, w: -0.21966745}
+    m_Value: {x: 0.0055872626, y: 0.98651195, z: -0.16001879, w: 0.034013927}
   m_Size:
-    m_Target: 10.621862
+    m_Target: 161.9541
     speed: 2
-    m_Value: 10.621862
+    m_Value: 154.98
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.54072994
-    m_SpeedNormalized: 0.26999998
+    m_Speed: 0.001
+    m_SpeedNormalized: 0
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1126,7 +1126,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scene Assets/suzuki-grand/textures
+    - Assets/Scene Assets/sewers-psx
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1134,16 +1134,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Scene Assets/suzuki-grand/textures
+  - Assets/Scene Assets/sewers-psx
   m_LastFoldersGridSize: 67
   m_LastProjectPath: D:\GameJam\Unity\UnamedGameJam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 551}
-    m_SelectedIDs: 7e4c0000
-    m_LastClickedID: 19582
-    m_ExpandedIDs: 00000000244c0000264c0000284c00002a4c00002c4c00002e4c0000304c0000324c0000344c0000364c0000384c00003a4c00003c4c00003e4c0000404c0000424c0000444c0000464c0000484c00004a4c00004c4c00007c4c0000804c000000ca9a3b
+    scrollPos: {x: 0, y: 535}
+    m_SelectedIDs: e66b0000
+    m_LastClickedID: 27622
+    m_ExpandedIDs: 00000000384c00003a4c00003c4c00003e4c0000404c0000424c0000444c0000464c0000484c00004a4c00004c4c00004e4c0000504c0000524c0000544c0000564c0000584c00005a4c00005c4c00005e4c0000604c0000624c00007c4c000092580000e66b0000ea6b0000506c0000546c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1171,7 +1171,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000244c0000264c0000284c00002a4c00002c4c00002e4c0000304c0000324c0000344c0000364c0000384c00003a4c00003c4c00003e4c0000404c0000424c0000444c0000464c0000484c00004a4c00004c4c0000
+    m_ExpandedIDs: 00000000384c00003a4c00003c4c00003e4c0000404c0000424c0000444c0000464c0000484c00004a4c00004c4c00004e4c0000504c0000524c0000544c0000564c0000584c00005a4c00005c4c00005e4c0000604c0000624c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
