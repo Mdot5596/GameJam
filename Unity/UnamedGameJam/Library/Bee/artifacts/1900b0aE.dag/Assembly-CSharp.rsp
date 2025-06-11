@@ -335,6 +335,7 @@
 "Assets/Scripts/NPCGreeting.cs"
 "Assets/Scripts/PlayerCam.cs"
 "Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/SceneLoader.cs"
 "Assets/Scripts/TeleportOnPickup.cs"
 -langversion:9.0
 /deterministic
