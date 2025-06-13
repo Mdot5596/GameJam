@@ -107,7 +107,7 @@ NavMeshSettings:
     agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
-    agentSlope: 45
+    agentSlope: 21.6
     agentClimb: 0.4
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
@@ -16556,8 +16556,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8b6f37f872673042b8f6535376e0db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 388731406}
-  chaseRange: 10
+  player: {fileID: 1922628031}
+  chaseRange: 20
 --- !u!195 &1029067286
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -33092,7 +33092,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fd72cd647153b24997431e24dce4871, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.277
+      value: 0.09
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fd72cd647153b24997431e24dce4871, type: 3}
       propertyPath: m_LocalPosition.z
